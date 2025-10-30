@@ -13,7 +13,6 @@ Visualización de usuarios (/MostrarUsuarios): Lee el archivo JSON y muestra una
 🗃️ Estructura de datos
 Los usuarios se almacenan como objetos de la clase Persona, que debe incluir un método to_dict() para convertirlos a formato JSON.
 
-El archivo de almacenamiento es: c:/Users/34666/Desktop/DOCUMENTOS/Oriol/Curso Python/ProyectoFlask/usuarios.json
 
 📦 Requisitos
 Python 3.x
